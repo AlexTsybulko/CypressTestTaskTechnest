@@ -1,6 +1,9 @@
 # CypressTestTaskTechnest
 
-**Prerequisites:**  
+
+Checkout repo and find cypress.json file root folder
+
+**1. Prerequisites:**  
 
 cypress.json env variables and baseUrl should be updated according to your desired values, e.g.:  
 
@@ -17,7 +20,7 @@ cypress.json env variables and baseUrl should be updated according to your desir
 }
 ```
 
-**Steps to run test:**
-* Checkout repo and open terminal in folder with package.json file
+**2. Steps to run test:**
+* Open terminal in folder with package.json file
 * Run *npm install*
 * Run *npm run test*
