@@ -1,1 +1,10 @@
-{}
+{
+    "baseUrl": "",
+    "supportFile": "cypress/support/index.ts",
+    "env": {
+        "USERNAME" : "",
+        "EMAIL"    : "",
+        "PASSWORD" : "",
+        "API_URL"  : ""
+    }
+}
