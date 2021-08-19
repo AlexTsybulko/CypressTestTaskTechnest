@@ -1,10 +1,10 @@
 {
-    "baseUrl": "http://localhost:4200",
+    "baseUrl": "",
     "supportFile": "cypress/support/index.ts",
     "env": {
-        "USERNAME" : "atsybulko",
-        "EMAIL"    : "atsybulko@elinext.com",
-        "PASSWORD" : "Sashka3256",
-        "API_URL"  : "http://localhost:3333"
+        "USERNAME" : "",
+        "EMAIL"    : "",
+        "PASSWORD" : "",
+        "API_URL"  : ""
     }
 }
